@@ -1,10 +1,11 @@
 {
   "expo": {
-    "name": "RNCoures",
-    "slug": "RNCoures",
+    "name": "Project-01",
+    "slug": "Project-01",
     "version": "1.0.0",
     "orientation": "portrait",
     "icon": "./assets/icon.png",
+    "backgroundColor": "#1e085a",
     "userInterfaceStyle": "light",
     "splash": {
       "image": "./assets/splash.png",
